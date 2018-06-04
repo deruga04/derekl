@@ -1,0 +1,36 @@
+body{
+    color: #eee;
+    text-align: center;
+    background-color: #00264d;
+}
+a{
+    /*color: #007bff;*/
+    color: #00bfff;
+}
+a:hover{
+    color: #5ED7FF;
+    text-decoration: none;
+}
+nav li{
+    display: inline-block;
+    font-size: 3em;
+}
+#main{
+    margin: 10%;
+}
+.header{
+    font-size: 4em;
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    font-size: 1.2em;
+}
+a{
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.2em;
+}
+#error_404_image{
+    margin: 10%;
+}
